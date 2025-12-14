@@ -1,2 +1,25 @@
 /* For information on how to create your own theme, please refer to:
 http://ionicframework.com/docs/theming/ */
+
+.border-trabajo {
+  border-left: 6px solid #3880ff;
+}
+.border-casa {
+  border-left: 6px solid #2dd36f;
+}
+.border-negocios {
+  border-left: 6px solid #ffc409;
+}
+
+.task-card {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 16px;
+  background: white;
+}
+
+.welcome-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 15px;
+}

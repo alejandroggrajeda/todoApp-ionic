@@ -1,0 +1,78 @@
+ion-content {
+  --padding-start: 16px;
+  --padding-end: 16px;
+  --padding-top: 16px;
+  --padding-bottom: 16px;
+}
+
+ion-card {
+  margin: 12px 0;
+}
+
+ion-header {
+  padding: 0;
+}
+
+ion-toolbar {
+  --padding-start: 8px;
+  --padding-end: 8px;
+}
+
+ion-modal ion-content {
+  --padding-start: 20px;
+  --padding-end: 20px;
+  --padding-top: 20px;
+  --padding-bottom: 20px;
+}
+
+ion-item {
+  --padding-start: 16px;
+  --padding-end: 16px;
+}
+
+ion-button {
+  margin: 8px 0;
+}
+
+.ion-padding {
+  --ion-padding: 16px;
+}
+
+h1,
+h2,
+h3 {
+  padding: 0 4px;
+}
+
+.task-card {
+  border-left: 4px solid #ddd;
+  margin: 12px 0;
+}
+
+.border-trabajo {
+  border-left-color: #3880ff;
+}
+
+.border-casa {
+  border-left-color: #2dd36f;
+}
+
+.border-negocios {
+  border-left-color: #ffc409;
+}
+
+.welcome-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  margin: 16px 0;
+  border-radius: 12px;
+}
+
+.welcome-card h2 {
+  color: white;
+  font-weight: bold;
+}
+
+ion-grid {
+  padding: 8px 0;
+}
