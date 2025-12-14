@@ -66,7 +66,6 @@ npx cap open ios
 
 ```
 src/
-  ├── components/      # Componentes reutilizables
   ├── context/         # Context API (TaskContext)
   ├── pages/           # Páginas de la app
   │   ├── Home.tsx     # Página principal con dashboard
